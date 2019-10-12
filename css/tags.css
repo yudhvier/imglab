@@ -34,6 +34,7 @@
 .file-input-icon{
     width: 30px;
     margin: auto;
+    padding: 3px;
     cursor: pointer;
 }
 
@@ -60,6 +61,7 @@
 
 i{
     font-size: 2em;
+    padding : auto;
 }
 
 /* JQUERY autocomplete */
